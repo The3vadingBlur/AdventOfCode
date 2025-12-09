@@ -8,7 +8,6 @@ rows = len(grid)
 cols = len(grid[0])
 
 reachable_rolls = 0
-removed_rolls = 0 
 
 offsets = [ 
     (-1,-1), (-1,0), (-1,1),
